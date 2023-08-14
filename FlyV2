@@ -93,7 +93,7 @@ speed.TextWrapped = true
 
 mine.Name = "mine"
 mine.Parent = Frame
-mine.BackgroundColor3 = Color3.fromRGB(123, 255, 247)
+mine.BackgroundColor3 = Color3.fromRGB(213,213,213)
 mine.Position = UDim2.new(0.231578946, 0, 0.491228074, 0)
 mine.Size = UDim2.new(0, 45, 0, 29)
 mine.Font = Enum.Font.SourceSans
@@ -105,7 +105,7 @@ mine.TextWrapped = true
 
 closebutton.Name = "Close"
 closebutton.Parent = main.Frame
-closebutton.BackgroundColor3 = Color3.fromRGB(225, 25, 0)
+closebutton.BackgroundColor3 = Color3.fromRGB(41,49,51)
 closebutton.Font = "SourceSans"
 closebutton.Size = UDim2.new(0, 45, 0, 28)
 closebutton.Text = "X"
@@ -114,7 +114,7 @@ closebutton.Position =  UDim2.new(0, 0, -1, 27)
 
 mini.Name = "minimize"
 mini.Parent = main.Frame
-mini.BackgroundColor3 = Color3.fromRGB(192, 150, 230)
+mini.BackgroundColor3 = Color3.fromRGB(105,105,105)
 mini.Font = "SourceSans"
 mini.Size = UDim2.new(0, 45, 0, 28)
 mini.Text = "#"
