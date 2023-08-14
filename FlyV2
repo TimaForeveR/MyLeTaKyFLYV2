@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
  Title = "MyLeTaKy";
  Text = "Fly script";
- Icon = "rbxthumb://type=Asset&id=13740999916&w=150&h=150"})
+ Icon = "rbxthumb://type=Asset&id=14435031323&w=150&h=150"})
 Duration = 10;
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
